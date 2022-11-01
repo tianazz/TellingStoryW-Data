@@ -12,9 +12,8 @@ Graduting in May 2023, I am actively looking for 2023 full time Data Scientist o
 
 **RESUME HERE [TianaZhu-cmu-cv.pdf](https://github.com/tianazz/TellingStoryW-Data/files/9906440/TianaZhu-cmu-cv.pdf)**
 
-Welcome to connect with me on LinkedIn :)
+Welcome to connect with me on [LinkedIn](https://www.linkedin.com/in/tiantiaz/) :)
 
-https://www.linkedin.com/in/tiantiaz/
 
 ## What I hope to learn
 As a data scientist, it is important to master all the technical tools and know how to tell a good story at the same time. In a team, data scientists need to have the business sense and technical git and know how to communicate with product managers and supervisors when we want to present our insights and conclusions. Good data visualizations and presentations help us prove our point and show the problems/opportunies more easily. Therefore, with the goal of becoming a *better* data scientist, I want to improve the data visualization skill and tell a good story with data. 
