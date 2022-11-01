@@ -1,5 +1,7 @@
 # TellingStoryW-Data
-This is Tiana's public portfolio for Telling Story with Data at CMU.
+This is Tiana's public portfolio for Telling Story with Data at CMU. 
+
+https://tianazz.github.io/TellingStoryW-Data/
 
 ## About me
 > Lean in. 
