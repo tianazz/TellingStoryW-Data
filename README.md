@@ -25,6 +25,8 @@ Also, This class uses Tableau to visualiza data which I think can help me master
 ## Portfolio
 > Assignment 1 
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/11722621"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 > Assignment 2 
 
 
