@@ -26,10 +26,12 @@ Also, This class uses Tableau to visualiza data which I think can help me master
 > Assignment 1 
 ### General Government Debt EDA
 General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. 
-(1) Here is a line chart about debt-to-GDP ratio of different countries in the world.
-<div class="flourish-embed flourish-chart" data-src="visualisation/11722621"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-(2) Bar chart
 
+(1) Bar chart
+<iframe src="https://data.oecd.org/chart/6SmY" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6SmY" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
+
+(2) Here is a line chart about debt-to-GDP ratio of different countries in the world.
+<div class="flourish-embed flourish-chart" data-src="visualisation/11722621"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### How were countries across the world dealing with sustainability of government finance in 2018?
 We hightlight the top 5 countries that have the highest debt-to-GDP ratio. We can see 3 of 5 are from Europe. 
