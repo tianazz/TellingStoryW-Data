@@ -19,7 +19,11 @@ I hope people will be aware that there exists the inappropiate gender representa
 ### Initial sketches
  Clear and understandable sketches created and available on the Github page. Sketches mimic aspects of the outline and build on message. Story structure is built into sketches.
  
-### Data 
- 
+### Data
+Source: https://www.kaggle.com/datasets/br33sa/gender-representation-in-video-games?resource=download
+TellingStoryW-Data/
+This data includes three datasets which are characters.csv, games.csv and sexulization.csv, recording characters in games released from 2012 to 2022. We can see a trend from the the past decade. Note that Characters.csv includes data both from the other two datasets. Therefore, I will mainly use the characters.csv to make most of the visualizations. 
+
 ### Method
+For this project, I will use Flourish and Shorthand for my visualizations and presentation making. 
  
