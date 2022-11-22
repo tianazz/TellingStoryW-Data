@@ -17,12 +17,14 @@ I hope people will be aware that there exists the inappropiate gender representa
 
  
 ### Initial sketches
- Clear and understandable sketches created and available on the Github page. Sketches mimic aspects of the outline and build on message. Story structure is built into sketches.
- 
+![366e59db866db1b60f3761f508650aa](https://user-images.githubusercontent.com/108914292/203428476-fc6c36e7-3aff-4426-8619-413ae0270550.jpg)
+
+![4415d9d6d983322716091b33e7d88a6](https://user-images.githubusercontent.com/108914292/203428538-4f238eb4-81cf-4be2-b7b9-0706ef212100.jpg)
+
 ### Data
 Source: https://www.kaggle.com/datasets/br33sa/gender-representation-in-video-games?resource=download
-TellingStoryW-Data/
-This data includes three datasets which are [characters.csv](https://github.com/tianazz/TellingStoryW-Data/blob/main/characters.grivg.csv), [games.csv](https://github.com/tianazz/TellingStoryW-Data/blob/main/games.grivg.csv) and [sexulization.csv], recording characters in games released from 2012 to 2022. We can see a trend from the the past decade. Note that Characters.csv includes data both from the other two datasets. Therefore, I will mainly use the characters.csv to make most of the visualizations. 
+
+This data includes three datasets which are [characters.csv](https://github.com/tianazz/TellingStoryW-Data/blob/main/characters.grivg.csv), [games.csv](https://github.com/tianazz/TellingStoryW-Data/blob/main/games.grivg.csv) and [sexulization.csv](https://github.com/tianazz/TellingStoryW-Data/blob/main/sexualization.grivg.csv), recording characters in games released from 2012 to 2022. We can see a trend from the the past decade. Note that Characters.csv includes data both from the other two datasets. Therefore, I will mainly use the characters.csv to make most of the visualizations. 
 
 ### Method
 For this project, I will use Flourish and Shorthand for my visualizations and presentation making. 
