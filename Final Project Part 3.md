@@ -11,6 +11,18 @@ For the visualizations, I found out that pie charts are not appealling and easy 
 # Final report at Shorthand:
 [Is gender representation in video games improving?](https://carnegiemellon.shorthandstories.com/is-gender-representation-in-video-games-improving/index.html)
 
+## [Where to find Part 1 Part 2](https://github.com/tianazz/TellingStoryW-Data/blob/main/Final%20Project.md)
+
 
 # References
 
+Data source: https://www.kaggle.com/datasets/br33sa/gender-representation-in-video-games?resource=download
+
+Citation: Ggarzon. “ESA.” Entertainment Software Association, December 1, 2022. https://www.theesa.com/.  
+
+Photo: 
+- Photo by Igor Karimov 🇺🇦 on Unsplash
+- Photo by Javier Martínez on Unsplash
+- Game screenshot [IMDB](https://www.imdb.com/title/tt8539990/mediaviewer/rm1262764032)
+- Game screenshot [IMDB](https://www.imdb.com/title/tt1699759/mediaviewer/rm1347242752)
+- Game screenshot [IMDB](https://www.imdb.com/title/tt2124034/mediaviewer/rm926179840)
