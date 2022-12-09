@@ -25,7 +25,37 @@ Also, This class uses Tableau to visualiza data which I think can help me master
 ## Portfolio
 > ## [Assignment 1](https://github.com/tianazz/TellingStoryW-Data/blob/main/Assignment1.md) 
 
+General Government Debt EDA
+General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance.
+
+(1) Bar chart
+
+<iframe src="https://data.oecd.org/chart/6SmY" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</iframe>
+(2) Here is a line chart about debt-to-GDP ratio of different countries in the world.
+
+<script src="https://public.flourish.studio/resources/embed.js"></script>
+How were countries across the world dealing with sustainability of government finance in 2018?
+We hightlight the top 5 countries that have the highest debt-to-GDP ratio. We can see 3 of 5 are from Europe.
+
+<script src="https://public.flourish.studio/resources/embed.js"></script>
+------------------------------------------------------------------------------------------
+
+
 > ## [Assignment 2](https://github.com/tianazz/TellingStoryW-Data/blob/main/dataviz2_.md) 
+
+#### Original visualization:
+
+![image](https://user-images.githubusercontent.com/108914292/201823232-7c8d847c-4b57-4bd8-9678-19733788d349.png)
+
+Source: [https://www150.statcan.gc.ca/n1/daily-quotidien/221019/dq221019c-eng.htm](url)
+
+This is a visualization in a 2022-10-19 released report from Statistics Canada whose name is <Victims of police-reported family and intimate partner violence in Canada, 2021> . I am using the chart because I am concerned about the severeness of domestic violence and since the onset of Covid 19 in 2020, increased attention has focused on the issue of domestic violence due to the quarantine, lock-down and the social distancing policy. It is important to raise public awareness on the safety of individuals living in absuisve situations and take action to fight against domestic violence. 
+
+#### Redesign final version
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11821334"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+------------------------------------------------------------------------------------------
 
 > ## Final Project
 
