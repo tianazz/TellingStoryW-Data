@@ -34,11 +34,12 @@ General government debt-to-GDP ratio measures the gross debt of the general gove
 
 (2) Here is a line chart about debt-to-GDP ratio of different countries in the world.
 
-<script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed flourish-chart" data-src="visualisation/11722621"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 How were countries across the world dealing with sustainability of government finance in 2018?
 We hightlight the top 5 countries that have the highest debt-to-GDP ratio. We can see 3 of 5 are from Europe.
 
-<script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/11722941"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 ------------------------------------------------------------------------------------------
